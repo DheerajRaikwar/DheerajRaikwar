@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dheeraj Raikwar
 =======================================================================================================================================
 
-Full Stack Developer
+Java Developer
 --------------------
 
 I'm a full stack java developer. holding 3 year of experience in software developer profile. I'm continuously improving myself to be a professional.
